@@ -1,0 +1,4 @@
+~/repos/website/.gitignore
+ .ignore_me
+*~
+tmp/
